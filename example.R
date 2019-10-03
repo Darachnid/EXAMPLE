@@ -1,5 +1,16 @@
+library(httr)
+
+data <- fread("https://raw.githubusercontent.com/Darachnid/EXAMPLE/master/data.csv")
+
+#index for spliting rows with themes or ranks
+themeNA <- which(is.na(data$theme) == TRUE)
+
+#define the split variable
+ranks <- data[themeNA,]
+themes <- data[-themeNA,]
+
 #melt the 4 columns for rankings into 2
-data <- melt(data, 
+ranks <- melt(ranks, 
              id.vars = c("group", 
                          "participant", 
                          "time", 
@@ -11,12 +22,6 @@ data <- melt(data,
                               "river health",
                               "water quality"))
 
-#index for spliting rows with themes or ranks
-themeNA <- which(is.na(data$theme) == TRUE)
-
-#define the split variable
-ranks <- data[themeNA,]
-themes <- data[-themeNA,]
 
 #plot the ranks
 plot <- ggplot(ranks, aes(x = time, 
