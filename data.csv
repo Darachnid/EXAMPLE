@@ -1,0 +1,163 @@
+group,participant,time,swimming,flooding,river health,water quality,scenario,subtheme,theme
+THG2,Participant 3,00:00:00,3,1,2,4,NA,NA,NA
+THG2,Participant 1,00:00:00,4,1,2,3,NA,NA,NA
+THG2,Participant 2,00:00:00,2,1,3,4,NA,NA,NA
+THG2,Participant 4,00:00:00,2,3,4,1,NA,NA,NA
+THG2,Participant 5,00:00:00,2,1,4,3,NA,NA,NA
+THG2,Participant 6,00:00:00,1,2,3,4,NA,NA,NA
+THG2,Participant 5,00:18:55,1,2,4,3,NA,NA,NA
+THG2,Participant 2,00:18:56,1,2,3,4,NA,NA,NA
+THG2,Participant 6,00:18:57,1,2,3,4,NA,NA,NA
+THG2,Participant 1,00:19:00,4,1,2,3,NA,NA,NA
+THG2,Participant 3,00:19:06,NA,NA,NA,NA,Swimming Days,Financial,Economic Considerations
+THG2,Participant 3,00:19:06,3,1,2,4,NA,NA,NA
+THG2,Participant 6,00:20:55,NA,NA,NA,NA,Water Quality,Dominant,Systemic Causation
+THG2,Participant 6,00:20:55,NA,NA,NA,NA,Water Quality,Ecosystem Ripple Effect,Ecological Considerations
+THG2,Participant 6,00:20:55,1,2,3,4,NA,NA,NA
+THG2,Participant 6,00:20:55,NA,NA,NA,NA,Swimming Days,Subordinate,Systemic Causation
+THG2,Participant 6,00:20:55,NA,NA,NA,NA,Water Quality,Wildlife Conservation,Ecological Considerations
+THG2,Participant 3,00:21:17,NA,NA,NA,NA,Swimming Days,Dominant,Systemic Causation
+THG2,Participant 3,00:21:17,NA,NA,NA,NA,River Health,Dominant,Systemic Causation
+THG2,Participant 3,00:21:17,NA,NA,NA,NA,River Health,Watershed Contamination,Ecological Considerations
+THG2,Participant 3,00:21:17,NA,NA,NA,NA,Water Quality,Subordinate,Systemic Causation
+THG2,Participant 3,00:22:06,4,1,2,3,NA,NA,NA
+THG2,Participant 1,00:22:08,4,1,2,3,NA,NA,NA
+THG2,Participant 6,00:22:14,NA,NA,NA,NA,Swimming Days,Dominant,Systemic Causation
+THG2,Participant 6,00:22:14,NA,NA,NA,NA,Water Quality,Subordinate,Systemic Causation
+THG2,Participant 3,00:22:57,4,1,2,3,NA,NA,NA
+THG2,Participant 1,00:25:31,NA,NA,NA,NA,Flood Mitigation,Community Wellbeing,Common Good Considerations
+THG2,Participant 4,00:25:37,NA,NA,NA,NA,Flood Mitigation,Financial,Economic Considerations
+THG2,Participant 4,00:25:37,NA,NA,NA,NA,Flood Mitigation,Safety,Common Good Considerations
+THG2,Participant 6,00:26:33,NA,NA,NA,NA,Flood Mitigation,Watershed Contamination,Ecological Considerations
+THG2,Participant 6,00:26:33,NA,NA,NA,NA,Flood Mitigation,Safety,Common Good Considerations
+THG2,Participant 6,00:26:33,1,3,2,4,NA,NA,NA
+THG2,Participant 1,00:28:29,NA,NA,NA,NA,Water Quality,Financial,Economic Considerations
+THG2,Participant 1,00:28:29,NA,NA,NA,NA,Water Quality,Watershed Contamination,Ecological Considerations
+THG2,Participant 5,00:29:46,NA,NA,NA,NA,Swimming Days,Financial,Economic Considerations
+THG2,Participant 5,00:29:46,NA,NA,NA,NA,Water Quality,Substitubility of Service,Economic Considerations
+THG2,Participant 4,00:29:56,NA,NA,NA,NA,River Health,Substitubility of Service,Economic Considerations
+THG2,Participant 4,00:31:18,NA,NA,NA,NA,Water Quality,Financial,Economic Considerations
+THG2,Participant 4,00:31:18,NA,NA,NA,NA,Swimming Days,Watershed Contamination,Ecological Considerations
+THG2,Participant 6,00:35:19,NA,NA,NA,NA,Water Quality,Financial,Economic Considerations
+THG2,Participant 6,00:35:19,NA,NA,NA,NA,Water Quality,Substitubility of Service,Economic Considerations
+THG2,Participant 4,00:35:25,NA,NA,NA,NA,Swimming Days,Financial,Economic Considerations
+THG2,Participant 5,00:39:50,1,2,4,3,NA,NA,NA
+THG2,Participant 1,00:40:06,4,1,2,3,NA,NA,NA
+THG2,Participant 4,00:40:19,1,2,4,3,NA,NA,NA
+THG2,Participant 5,00:40:19,1,2,4,3,NA,NA,NA
+THG2,Participant 2,00:40:27,1,2,3,4,NA,NA,NA
+THG2,Participant 3,00:40:34,NA,NA,NA,NA,Water Quality,Community Wellbeing,Common Good Considerations
+THG2,Participant 3,00:40:34,NA,NA,NA,NA,Water Quality,Financial,Economic Considerations
+THG2,Participant 3,00:40:34,4,2,3,1,NA,NA,NA
+THG2,Participant 5,00:42:00,2,3,4,1,Water Quality,NA,NA
+THG2,Participant 4,00:42:58,1,2,4,3,Water Quality,NA,NA
+THG2,Participant 3,00:43:14,4,2,3,1,NA,NA,NA
+THG2,Participant 6,00:43:28,1,4,2,3,NA,NA,NA
+THG2,Participant 1,00:43:33,NA,NA,NA,NA,Water Quality,Compromise,Compromise
+THG2,Participant 1,00:43:33,4,1,2,3,NA,NA,NA
+THG2,Participant 4,00:43:38,NA,NA,NA,NA,Water Quality,Compromise,Compromise
+THG2,Participant 4,00:43:38,1,2,4,3,NA,NA,NA
+THG2,Participant 2,00:43:45,NA,NA,NA,NA,Water Quality,Financial,Economic Considerations
+THG2,Participant 2,00:43:45,1,3,4,2,NA,NA,NA
+THG2,Participant 1,00:44:25,NA,NA,NA,NA,Water Quality,Community Wellbeing,Common Good Considerations
+THG2,Participant 1,00:44:25,NA,NA,NA,NA,Water Quality,Financial,Economic Considerations
+THG2,Participant 1,00:44:25,NA,NA,NA,NA,Water Quality,Selfless Thinking,Common Good Considerations
+THG2,Participant 5,00:44:37,1,2,4,3,NA,NA,NA
+THG2,Participant 4,00:44:42,1,2,4,3,NA,NA,NA
+THG2,Participant 6,00:45:04,NA,NA,NA,NA,River Health,Wildlife Conservation,Ecological Considerations
+THG2,Participant 4,00:45:42,NA,NA,NA,NA,River Health,Substitubility of Service,Economic Considerations
+THG2,Participant 5,00:46:12,1,2,4,3,NA,NA,NA
+THG2,Participant 1,00:46:24,NA,NA,NA,NA,River Health,Ecosystem Ripple Effect,Ecological Considerations
+THG2,Participant 1,00:46:24,NA,NA,NA,NA,River Health,Wildlife Conservation,Ecological Considerations
+THG2,Participant 4,00:46:56,NA,NA,NA,NA,River Health,Ecosystem Ripple Effect,Ecological Considerations
+THG2,Participant 4,00:46:56,NA,NA,NA,NA,River Health,Wildlife Conservation,Ecological Considerations
+THG2,Participant 1,00:49:55,2,1,4,3,NA,NA,NA
+THG2,Participant 3,00:52:52,NA,NA,NA,NA,Flood Mitigation,Watershed Contamination,Ecological Considerations
+THG2,Participant 6,00:54:00,NA,NA,NA,NA,Flood Mitigation,Watershed Contamination,Ecological Considerations
+THG2,Participant 5,00:54:31,NA,NA,NA,NA,River Health,Watershed Contamination,Ecological Considerations
+THG2,Participant 1,00:55:21,NA,NA,NA,NA,Flood Mitigation,Watershed Contamination,Ecological Considerations
+THG2,Participant 5,00:55:31,1,2,4,3,NA,NA,NA
+THG2,Participant 1,00:55:42,1,2,4,3,NA,NA,NA
+THG2,Participant 4,00:56:26,1,2,4,3,NA,NA,NA
+THG2,Participant 2,00:56:32,1,3,4,2,NA,NA,NA
+THG2,Participant 5,00:56:34,1,3,4,2,NA,NA,NA
+THG2,Participant 3,00:56:40,4,2,3,1,NA,NA,NA
+THG2,Participant 4,00:56:44,1,3,4,2,NA,NA,NA
+THG2,Participant 1,00:56:46,1,3,4,2,NA,NA,NA
+THG2,Participant 2,00:58:52,1,3,4,2,NA,NA,NA
+THG2,Participant 1,01:01:49,NA,NA,NA,NA,Water Quality,Community Wellbeing,Common Good Considerations
+THG2,Participant 1,01:02:00,1,2,4,3,NA,NA,NA
+THG2,Participant 6,01:02:56,1,4,2,3,NA,NA,NA
+THG2,Participant 3,01:03:00,NA,NA,NA,NA,Swimming Days,Financial,Economic Considerations
+THG2,Participant 3,01:03:04,4,2,3,1,NA,NA,NA
+THG2,Participant 1,01:03:25,NA,NA,NA,NA,Swimming Days,Financial,Economic Considerations
+THG2,Participant 1,01:05:03,1,2,4,3,NA,NA,NA
+THG2,Participant 3,01:05:06,4,2,3,1,NA,NA,NA
+THG2,Participant 6,01:05:14,1,4,2,3,NA,NA,NA
+THG2,Participant 4,01:05:14,1,2,4,3,NA,NA,NA
+THG2,Participant 4,01:05:15,NA,NA,NA,NA,Water Quality,Financial,Economic Considerations
+THG2,Participant 5,01:06:27,NA,NA,NA,NA,River Health,Wildlife Conservation,Ecological Considerations
+THG2,Participant 6,01:07:02,1,4,2,3,NA,NA,NA
+THG2,Participant 6,01:07:48,NA,NA,NA,NA,Swimming Days,Ecosystem Ripple Effect,Ecological Considerations
+THG2,Participant 6,01:07:48,NA,NA,NA,NA,Swimming Days,Wildlife Conservation,Ecological Considerations
+THG2,Participant 6,01:09:43,NA,NA,NA,NA,Swimming Days,Wildlife Conservation,Ecological Considerations
+THG2,Participant 6,01:09:43,NA,NA,NA,NA,Swimming Days,Selfless Thinking,Common Good Considerations
+THG2,Participant 4,01:09:55,2,3,4,1,NA,NA,NA
+THG2,Participant 5,01:10:57,NA,NA,NA,NA,Water Quality,Financial,Economic Considerations
+THG2,Participant 5,01:10:57,NA,NA,NA,NA,Water Quality,Substitubility of Service,Economic Considerations
+THG2,Participant 5,01:11:18,2,3,4,1,NA,NA,NA
+THG2,Participant 4,01:11:39,NA,NA,NA,NA,Water Quality,Financial,Economic Considerations
+THG2,Participant 4,01:11:39,NA,NA,NA,NA,Water Quality,Watershed Contamination,Ecological Considerations
+THG2,Participant 1,01:12:25,2,3,4,1,NA,NA,NA
+THG2,Participant 6,01:12:28,2,3,4,1,NA,NA,NA
+THG2,Participant 1,01:13:04,3,2,4,1,NA,NA,NA
+THG2,Participant 1,01:13:45,NA,NA,NA,NA,Flood Mitigation,Watershed Contamination,Ecological Considerations
+THG2,Participant 4,01:13:55,NA,NA,NA,NA,River Health,Dominant,Systemic Causation
+THG2,Participant 4,01:13:55,NA,NA,NA,NA,Flood Mitigation,Subordinate,Systemic Causation
+THG2,Participant 6,01:15:29,3,2,4,1,NA,NA,NA
+THG2,Participant 3,01:17:18,4,3,2,1,NA,NA,NA
+THG2,Participant 1,01:18:06,2,3,4,1,NA,NA,NA
+THG2,Participant 4,01:19:00,2,3,4,1,NA,NA,NA
+THG2,Participant 6,01:19:30,2,3,4,1,NA,NA,NA
+THG2,Participant 5,01:20:22,NA,NA,NA,NA,River Health,Ecosystem Ripple Effect,Ecological Considerations
+THG2,Participant 5,01:20:22,NA,NA,NA,NA,River Health,Wildlife Conservation,Ecological Considerations
+THG2,Participant 1,01:21:24,NA,NA,NA,NA,Water Quality,Compromise,Compromise
+THG2,Participant 6,01:21:24,2,3,4,1,NA,NA,NA
+THG2,Participant 1,01:21:25,2,3,4,1,NA,NA,NA
+THG2,Participant 5,01:21:29,NA,NA,NA,NA,Water Quality,Substitubility of Service,Economic Considerations
+THG2,Participant 4,01:21:59,2,3,4,1,NA,NA,NA
+THG2,Participant 5,01:22:19,3,2,4,1,NA,NA,NA
+THG2,Participant 5,01:22:22,NA,NA,NA,NA,Flood Mitigation,Ecosystem Ripple Effect,Ecological Considerations
+THG2,Participant 5,01:22:22,NA,NA,NA,NA,Flood Mitigation,Watershed Contamination,Ecological Considerations
+THG2,Participant 3,01:22:59,NA,NA,NA,NA,Flood Mitigation,Compromise,Compromise
+THG2,Participant 3,01:23:06,2,4,3,1,NA,NA,NA
+THG2,Participant 5,01:23:17,NA,NA,NA,NA,Flood Mitigation,Dominant,Systemic Causation
+THG2,Participant 5,01:23:17,NA,NA,NA,NA,River Health,Subordinate,Systemic Causation
+THG2,Participant 3,01:23:27,NA,NA,NA,NA,Flood Mitigation,Financial,Economic Considerations
+THG2,Participant 6,01:24:04,NA,NA,NA,NA,Flood Mitigation,Community Wellbeing,Common Good Considerations
+THG2,Participant 4,01:24:08,NA,NA,NA,NA,Flood Mitigation,Wildlife Conservation,Ecological Considerations
+THG2,Participant 5,01:25:35,NA,NA,NA,NA,River Health,Subordinate,Systemic Causation
+THG2,Participant 5,01:25:35,NA,NA,NA,NA,River Health,Safety,Common Good Considerations
+THG2,Participant 6,01:26:22,NA,NA,NA,NA,River Health,Ecosystem Ripple Effect,Ecological Considerations
+THG2,Participant 6,01:26:22,NA,NA,NA,NA,River Health,Safety,Common Good Considerations
+THG2,Participant 6,01:26:23,2,4,3,1,NA,NA,NA
+THG2,Participant 3,01:27:26,NA,NA,NA,NA,Flood Mitigation,Safety,Common Good Considerations
+THG2,Participant 6,01:27:55,NA,NA,NA,NA,Flood Mitigation,Safety,Common Good Considerations
+THG2,Participant 3,01:28:19,NA,NA,NA,NA,Flood Mitigation,Watershed Contamination,Ecological Considerations
+THG2,Participant 5,01:28:58,2,3,4,1,NA,NA,NA
+THG2,Participant 6,01:30:13,2,3,4,1,NA,NA,NA
+THG2,Participant 3,01:30:18,3,4,2,1,NA,NA,NA
+THG2,Participant 4,01:31:17,2,3,4,1,NA,NA,NA
+THG2,Participant 6,01:31:33,2,3,4,1,NA,NA,NA
+THG2,Participant 3,01:31:36,NA,NA,NA,NA,River Health,Wildlife Conservation,Ecological Considerations
+THG2,Participant 6,01:33:01,2,3,4,1,NA,NA,NA
+THG2,Participant 6,01:33:41,NA,NA,NA,NA,River Health,Culture,Common Good Considerations
+THG2,Participant 6,01:33:41,NA,NA,NA,NA,River Health,Wildlife Conservation,Ecological Considerations
+THG2,Participant 3,01:33:56,NA,NA,NA,NA,River Health,Culture,Common Good Considerations
+THG2,Participant 5,01:34:01,NA,NA,NA,NA,Flood Mitigation,Compromise,Compromise
+THG2,Participant 1,01:36:29,2,3,4,1,NA,NA,NA
+THG2,Participant 2,01:36:29,2,3,4,1,NA,NA,NA
+THG2,Participant 4,01:36:29,2,3,4,1,NA,NA,NA
+THG2,Participant 5,01:36:29,2,3,4,1,NA,NA,NA
+THG2,Participant 6,01:36:29,2,3,4,1,NA,NA,NA
+THG2,Participant 3,01:36:29,2,3,4,1,NA,NA,NA
